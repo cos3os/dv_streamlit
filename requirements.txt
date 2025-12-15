@@ -1,0 +1,8 @@
+streamlit
+pandas
+networkx
+matplotlib
+wordcloud
+seaborn
+plotly
+altair
